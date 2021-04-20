@@ -1,0 +1,26 @@
+.idea
+.env
+.env.*.yml
+
+
+# ignore all logs files
+logs/*
+
+# don't ignore keep file in logs
+!logs/.keep
+
+#ignore auto dumps
+db/dumps/ignored/*
+!db/dumps/ignored/.keep
+
+
+
+/vendor/
+/junk
+
+/node_modules/
+/yarn-error.log
+
+
+
+support/dump.cnf

@@ -1,0 +1,23 @@
+{
+    "require": {
+        "nesbot/carbon": "^2.39",
+        "neitanod/forceutf8": "^2.0",
+        "czproject/git-php": "^3.18",
+        "monolog/monolog": "^2.1",
+        "symfony/yaml": "^5.1",
+        "robmorgan/phinx": "^0.12.4",
+        "myclabs/deep-copy": "^1.10",
+        "dragonmantank/cron-expression": "^3.0",
+        "jmikola/geojson": "^1.0",
+        "ramsey/uuid": "^4.1",
+        "ozdemirburak/iris": "^2.1",
+        "hashids/hashids": "^4.0",
+      "ext-mysqli": "*",
+        "ext-curl": "*",
+        "ext-json": "*",
+        "ext-mbstring": "*",
+        "ext-simplexml": "*"
+    },
+    "name": "hexbatch-core/site",
+    "description": "Site for Hexbatch Library Stuff thingajigs"
+}
